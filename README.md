@@ -1,1 +1,1 @@
-# Pattern-recognition
+# classification & regression product
